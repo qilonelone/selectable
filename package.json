@@ -1,6 +1,6 @@
 {
   "name": "v-selectable",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "vue selectable",
   "main": "src/selectable.js",
   "scripts": {
@@ -12,5 +12,12 @@
     "selectable"
   ],
   "author": "yanglong <331421312@qq.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qilonelone/selectable"
+  },
+  "files": [
+    ".gitattributes"
+  ]
 }
