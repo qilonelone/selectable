@@ -1,0 +1,16 @@
+{
+  "name": "v-selectable",
+  "version": "1.0.5",
+  "description": "vue selectable",
+  "main": "src/selectable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "directive",
+    "selectable"
+  ],
+  "author": "yanglong <331421312@qq.com>",
+  "license": "ISC"
+}
